@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oz RAGE Harm</h1>
 <h3 align="center">I like Modding games like Fortnite, Minecraft etc. I also enjoy making games in Unity with C#, making discord bots and other random things!</h3>
 
-<h3 align+"center">Programming Languages I Know: Javascript, Typescript, C#, HTML, assembly, binary and Rust</h3>
+<h3 align+"center">Programming Languages I Know: Javascript, Typescript, C#, C++, HTML, assembly, binary and Rust</h3>
 
 
 <h3 align="left">Connect with me:</h3>
