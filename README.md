@@ -1,7 +1,7 @@
 <h1 style="text-align: center">Hi 👋, I'm Oz RAGE Harm, but you can call me RAGE</h1>
 <h3 style="text-align: center">I like Modding and creating games, making random programs that somehow work, learning about computers, learning new programming languages etc.</h3>
 
-<h3 style="text-align: center">Programming languages I know:</h3>
+<h3 style="text-align: center">Programming languages I know (not in order lol):</h3>
 <ul style="text-align: center">
   <li>JS</li>
   <li>HTML</li>
