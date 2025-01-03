@@ -5,7 +5,7 @@
 
 </div>
 
-🔭 Currently working on a programming language and a small operating system both built in Rust <br>🌱Currently learning Lua and C
+🔭 Currently working on a programming language and a small operating system (mostly to learn how firmware interacts with hardware) both built in Rust <br>🌱Currently learning Lua and C
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
