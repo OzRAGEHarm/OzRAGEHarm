@@ -1,5 +1,8 @@
-<h1 style="text-align: center">Hi 👋, I'm Oz RAGE Harm, but you can call me RAGE</h1>
-<h3 style="text-align: center">I like modding and creating games, making random programs that somehow work, learning about computers and programming them, etc.</h3>
+# About me!
+<h1 style="text-align: center">Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
+<h3 style="text-align: center">I've always been passionate about technology, computers in general, robotics, and programming.</h3>
+
+🔭 Currently working on a programming language and a small operating system both built in Rust <br>🌱Currently learning Lua and C
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
