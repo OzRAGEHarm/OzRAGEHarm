@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
-<h3>I've always been passionate about technology, computers in general, robotics, and programming.</h3>
+<h1>Hi 👋, I'm Oz RAGE Harm, but call me RAGE</h1>
+<h3>I've always been passionate about technology, robotics, and programming.</h3>
 
 </div>
 
