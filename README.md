@@ -1,5 +1,5 @@
-<h1 style="text-align: center">Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
-<h3 style="text-align: center">I've always been passionate about technology, computers in general, robotics, and programming.</h3>
+<h1 style="text-align: center;">Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
+<h3 style="text-align: center;">I've always been passionate about technology, computers in general, robotics, and programming.</h3>
 
 🔭 Currently working on a programming language and a small operating system both built in Rust <br>🌱Currently learning Lua and C
 
