@@ -1,4 +1,3 @@
-# About me!
 <h1 style="text-align: center">Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
 <h3 style="text-align: center">I've always been passionate about technology, computers in general, robotics, and programming.</h3>
 
