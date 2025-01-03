@@ -3,7 +3,6 @@
 <h1>Hi 👋, I'm Oz RAGE Harm, but I prefer just RAGE</h1>
 <h3>I've always been passionate about technology, computers in general, robotics, and programming.</h3>
 
-</div>
 
 🔭 Currently working on a programming language and a small operating system both built in Rust <br>🌱Currently learning Lua and C
 
@@ -32,3 +31,5 @@
 <p style="text-align: center">
 <a href="https://twitter.com/oz_rage_harm" target="blank"><img style="align: center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oz_rage_harm" height="30" width="40" /></a>
 </p>
+
+</div>
