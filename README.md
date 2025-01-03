@@ -13,6 +13,10 @@
   <li>TS (TypeScript)</li>
 </ul>
 
+![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <h3 style="text-align: center">Connect with me:</h3>
 <p style="text-align: center">
 <a href="https://twitter.com/oz_rage_harm" target="blank"><img style="align: center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oz_rage_harm" height="30" width="40" /></a>
