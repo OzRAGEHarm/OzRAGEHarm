@@ -11,7 +11,7 @@
 🐻 I am a ***HUGE*** Five Nights At Freddy's nerd!<br/>
 🌲 I love nature because it reminds me of the simple joys and wonders of life!<br/>
 
-🔭 **Currently working on:** A programming language and a small operating system, primarily to explore how firmware interacts with hardware. Both projects are built using the Rust programming language.  
+🔭 **Currently working on:** A programming language built with Rust and an small operating system also built with Rust primarily to explore how firmware interacts with hardware.
 🌱 **Currently learning:** Lua and C.
 
 ---
