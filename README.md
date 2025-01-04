@@ -41,6 +41,6 @@ Here’s a glimpse of my GitHub activity:
 
 # 💬 A Quote from Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Oz%20RAGE%20Harm&quote=I%20wish%20that%20Full-Dive%20VR%20technology%20existed,%20that%20would%20be%20so%20cool!)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Oz%20RAGE%20Harm&quote=I%20wish%20that%20Full-Dive%20VR%20technology%20existed,%20that%20would%20be%20so%20cool!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.))
 
 ---
