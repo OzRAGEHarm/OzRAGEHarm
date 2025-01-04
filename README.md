@@ -33,9 +33,21 @@ Here are some of the technologies I work with:
 
 Here’s a glimpse of my GitHub activity:
 
-![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=monokai&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <div style="display: inline-block; margin: 10px;">
+    ![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=monokai&hide_border=false)
+  </div>
+
+  <div style="display: inline-block; margin: 10px;">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  </div>
+
+</div>
 
 ---
 
