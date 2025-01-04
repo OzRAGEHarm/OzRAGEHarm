@@ -47,6 +47,6 @@ Here’s a glimpse of my GitHub activity:
 
 # 💬 Inspirational Quote
 
-![]((https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it)
 
 ---
