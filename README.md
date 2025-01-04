@@ -1,11 +1,17 @@
 <div align="center">
 
 <h1>👋 Hello, I'm Oz RAGE Harm, but you can call me RAGE!</h1>
-<h3>Passionate about technology, robotics, and programming.</h3>
 
 </div>
 
-🔭 **Currently working on:** A programming language and a small operating system, primarily to explore how firmware interacts with hardware. Both projects are built using Rust.  
+# 👤 About Me
+🎂 I am a 17 (almost 18) year old aspiring and upcoming developer!
+💻 I love programming and learning about technologies, old and new!
+🎮 When I'm not programming, I tend to play video games such as Minecraft, Fortnite, Roblox, Fallout and more!
+🐻 I am a HUGE Five Nights At Freddy's nerd!
+🌲 I love nature because it reminds me of the simple joys and wonders of life!
+
+🔭 **Currently working on:** A programming language and a small operating system, primarily to explore how firmware interacts with hardware. Both projects are built using the Rust programming language.  
 🌱 **Currently learning:** Lua and C.
 
 ---
