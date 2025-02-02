@@ -39,8 +39,8 @@ Here are some of the technologies I work with:
 ---
 
 ### My ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) Packages:
-* [@ozrageharm/blackbox-ai](https://www.npmjs.com/package/@ozrageharm/blackbox-ai) - recently updated! created: 5/30/2023 | last updated: 2/2/2025
-* [@ozrageharm/epiccore](https://www.npmjs.com/package/@ozrageharm/epiccore) - older package but still works properly! created: 12/22/2023 | last updated: 12/23/2023
+* [@ozrageharm/blackbox-ai](https://www.npmjs.com/package/@ozrageharm/blackbox-ai) - recently updated! created: **5/30/2023** | last updated: **2/2/2025**
+* [@ozrageharm/epiccore](https://www.npmjs.com/package/@ozrageharm/epiccore) - older package but still works properly! created: **12/22/2023** | last updated: **12/23/2023**
 
 ---
 
