@@ -38,6 +38,12 @@ Here are some of the technologies I work with:
 
 ---
 
+### My ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) Packages:
+* [@ozrageharm/blackbox-ai](https://www.npmjs.com/package/@ozrageharm/blackbox-ai) - recently updated!
+* [@ozrageharm/epiccore](https://www.npmjs.com/package/@ozrageharm/epiccore) - older package but still works properly!
+
+---
+
 # 📊 GitHub Statistics
 
 Here’s a glimpse of my GitHub activity:
