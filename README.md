@@ -5,7 +5,7 @@
 </div>
 
 # 👤 About Me
-🎂 I am a 17 (almost 18) year old developer developing ideas and bringing them to life through programming!<br/>
+🎂 I am a 17 (almost 18) year old and I love bringing my ideas to life through coding. It's exciting to turn my thoughts into real projects!<br/>
 💻 I love programming and learning about all kinds of different technologies, old and new!<br/>
 🎮 When I'm not programming, I tend to play video games such as Minecraft, Fortnite, Roblox, Fallout and more!<br/>
 👨‍💻 I also love creating and playing the games I develop with the Unity Game Engine!<br/>
