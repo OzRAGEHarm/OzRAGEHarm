@@ -48,7 +48,7 @@ Here’s a glimpse of my GitHub activity:
 
 ---
 
-### Check out my NPM packages [**here**](https://www.npmjs.com/~ozrageharm)
+### Check out my NPM packages [__***here***__](https://www.npmjs.com/~ozrageharm)
 
 ---
 
