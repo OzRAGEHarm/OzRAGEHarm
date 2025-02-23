@@ -10,7 +10,7 @@
 🎮 When I'm not programming, I tend to play video games such as Minecraft, Fortnite, Roblox, Fallout and more!<br/>
 👨‍💻 I also love creating and playing the games I develop with the Unity Game Engine!<br/>
 🐻 I am a ***HUGE*** Five Nights At Freddy's nerd!<br/>
-🌲 I love nature because it reminds me of the simple joys and wonders of life!<br/>
+🌲 I enjoy the beauty of nature, it's majestic in many ways.<br/>
 
 🔭 **Currently working on:** A programming language built with Rust and an small operating system also built with Rust primarily to explore how firmware interacts with hardware.<br/>
 🌱 **Currently learning:** Lua, C and Java.<br/>
