@@ -38,12 +38,6 @@ Here are some of the technologies I work with:
 
 ---
 
-### My ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) Packages:
-* [@ozrageharm/blackbox-ai](https://www.npmjs.com/package/@ozrageharm/blackbox-ai) - recently updated! created: **5/30/2023** | last updated: **2/2/2025**
-* [@ozrageharm/epiccore](https://www.npmjs.com/package/@ozrageharm/epiccore) - older package but still works properly! created: **12/22/2023** | last updated: **12/23/2023**
-
----
-
 # 📊 GitHub Statistics
 
 Here’s a glimpse of my GitHub activity:
@@ -51,6 +45,10 @@ Here’s a glimpse of my GitHub activity:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=monokai&hide_border=false)<br/>
+
+---
+
+### Check out my NPM packages [**here**](https://www.npmjs.com/~ozrageharm)
 
 ---
 
