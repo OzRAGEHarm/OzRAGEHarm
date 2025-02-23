@@ -15,10 +15,12 @@
 🔭 **Currently working on:** A programming language built with Rust and an small operating system also built with Rust primarily to explore how firmware interacts with hardware.<br/>
 🌱 **Currently learning:** Lua, C and Java. (mostly java though)<br/>
 
+## ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) Check out my NPM packages [<ins>***here***</ins>](https://www.npmjs.com/~ozrageharm)
+
 ---
 
 # 💻 Tech Stack
-Here are some of the technologies I work with:
+<ins>Here are some of the technologies I work with:</ins>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -40,15 +42,11 @@ Here are some of the technologies I work with:
 
 # 📊 GitHub Statistics
 
-Here’s a glimpse of my GitHub activity:
+<ins>Here’s a glimpse of my GitHub activity:</ins>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=monokai&hide_border=false)<br/>
-
----
-
-## ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) Check out my NPM packages [__***here***__](https://www.npmjs.com/~ozrageharm)!
 
 ---
 
