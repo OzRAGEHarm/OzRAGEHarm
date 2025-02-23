@@ -20,7 +20,6 @@
 ---
 
 # 💻 Tech Stack
-## <ins>Here are some of the technologies I work with:</ins>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -41,8 +40,6 @@
 ---
 
 # 📊 GitHub Statistics
-
-## <ins>Here’s a glimpse of my GitHub activity:</ins>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
