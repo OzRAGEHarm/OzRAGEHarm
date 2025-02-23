@@ -13,7 +13,7 @@
 🌲 I enjoy the beauty of nature, it's majestic in many ways.<br/>
 
 🔭 **Currently working on:** A programming language built with Rust and an small operating system also built with Rust primarily to explore how firmware interacts with hardware.<br/>
-🌱 **Currently learning:** Lua, C and Java.<br/>
+🌱 **Currently learning:** Lua, C and Java. (mostly java though)<br/>
 
 ---
 
