@@ -48,7 +48,7 @@ Here’s a glimpse of my GitHub activity:
 
 ---
 
-### ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) Check out my NPM packages [__***here***__](https://www.npmjs.com/~ozrageharm)!
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ### Check out my NPM packages [__***here***__](https://www.npmjs.com/~ozrageharm)!
 
 ---
 
