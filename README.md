@@ -41,14 +41,14 @@
 
 # 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OzRAGEHarm&theme=monokai&hide_border=false)<br/>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&text_bold=true&layout=compact&custom_title=My%20Most%20Used%20Languages!" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&text_bold=true&custom_title=My%20Github%20Statistics!" />
+
 
 ---
 
 # 💬 Inspirational Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&author=Dennis%20Ritchie&quote=The%20only%20way%20to%20learn%20a%20new%20programming%20language%20is%20by%20writing%20programs%20in%20it.)
 
 ---
