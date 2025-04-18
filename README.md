@@ -43,7 +43,7 @@
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzRAGEHarm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&text_bold=true&&size_weight=0.5&&langs_count=10&count_weight=0.5&custom_title=My%20Most%20Used%20Languages!" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OzRAGEHarm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&text_bold=true&custom_title=My%20Github%20Statistics!" />
-<img height=200 align="center" src="https://streak-stats.demolab.com?user=ozrageharm&theme=radical&hide_border=true&card_height=200" />
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=ozrageharm&theme=radical&hide_border=false&card_height=200" />
 
 
 ---
