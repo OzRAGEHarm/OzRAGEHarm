@@ -6,7 +6,7 @@
 
 # 👤 About Me
 🎂 I am 18 years old and I love bringing my ideas to life through coding. It's exciting to turn my thoughts into real projects!<br/>
-💻 I love programming and learning about all kinds of different technologies, old and new!<br/>
+💻 I'm a recreational programmer, I love programming and learning about all kinds of different technologies, old and new!<br/>
 🎮 When I'm not programming, I tend to play video games such as Minecraft, Fortnite, Roblox, Fallout and more!<br/>
 👨‍💻 I also love creating and playing the games I develop with the Unity Game Engine!<br/>
 🐻 I am a ***HUGE*** Five Nights At Freddy's nerd!<br/>
