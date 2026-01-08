@@ -4,6 +4,8 @@
 
 </div>
 
+![](https://count.getloli.com/@OzRAGEHarm?name=OzRAGEHarm&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
+
 # 👤 About Me
 🎂 I am 18 years old and I love bringing my ideas to life through coding. It's exciting to turn my thoughts into real projects!<br/>
 💻 I'm a recreational programmer, I love programming and learning about all kinds of different technologies, old and new!<br/>
