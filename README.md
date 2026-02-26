@@ -1,10 +1,9 @@
 <div align="center">
 
 <h1>👋 Hello, I'm Oz RAGE Harm, but you can call me RAGE!</h1>
+<img src="https://count.getloli.com/@OzRAGEHarm?name=OzRAGEHarm&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto" />
 
 </div>
-
-![](https://count.getloli.com/@OzRAGEHarm?name=OzRAGEHarm&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto)
 
 # 👤 About Me
 🎂 I am 18 years old and I love bringing my ideas to life through coding. It's exciting to turn my thoughts into real projects!<br/>
