@@ -4,6 +4,5 @@
   "message": "Zekken",
   "color": "c01921",
   "style": "for-the-badge",
-  "logo": "https://raw.githubusercontent.com/OzRAGEHarm/Zekken/main/images/zekken_icon.svg",
-  "logoWidth": 20
+  "logoSvg": "<svg xmlns='http://www.w3.org' width='20' height='20'><image href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH6AIXAhce9Y/DqwAAABl0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMy4xM4v7pAAAACRJREFUOE9jGAWjYBSMglEwCkbBKBgFosBIAm7Iy8v7TywAAH8nAyB9f6QkAAAAAElFTkSuQmCC' width='20' height='20'/></svg>"
 }
