@@ -14,7 +14,7 @@
 🌲 I enjoy the beauty of nature, it's majestic in many ways.<br/>
 
 🔭 **Currently working on:** A [programming language](https://github.com/OzRAGEHarm/Zekken) built with Rust.<br/>
-🌱 **Currently learning:** Nothing at the moment.<br/>
+🌱 **Currently learning:** Anything and Everything.<br/>
 
 ## ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) Check out my NPM packages [<ins>***here***</ins>](https://www.npmjs.com/~ozrageharm)
 
